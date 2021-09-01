@@ -1,6 +1,6 @@
 # Internet Explorer Deprecation Warning
 
-A simple warning banner to display to the user that their browser needs to be updated.
+A simple warning banner to display to the user that their browser needs to be updated if they are using Internet Explorer.
 
 #### Supports later IE versions
 
