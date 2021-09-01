@@ -16,6 +16,6 @@ Simply insert the script before the closing body tag in your html.
 
 ```
 .... your html page ....
-<script  src="iewarn.js"></script>
+<script src="iewarn.min.js"></script>
 </body>
 ```
