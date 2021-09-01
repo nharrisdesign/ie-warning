@@ -19,3 +19,6 @@ Simply insert the script before the closing body tag in your html.
 <script src="iewarn.min.js"></script>
 </body>
 ```
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/89836527/131752230-74f02251-1fb2-4864-ad64-67a09be04a65.png)
