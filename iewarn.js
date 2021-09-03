@@ -1,9 +1,6 @@
 (function () {
-  function detect_IE() {
-    return window.navigator.userAgent.match(/MSIE|Trident/) !== null;
-  }
-
-  if (detect_IE()) {
+  // Detect IE
+  if (window.navigator.userAgent.match(/MSIE|Trident/) !== null) {
     // Create the banner
     var warning = document.createElement('div');
     warning.id += 'ie-warning';
