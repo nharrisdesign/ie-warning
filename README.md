@@ -14,7 +14,7 @@ _Currently only tested on IE8-IE11_
 
 Simply insert the script before the closing body tag in your html.
 
-```
+```html
 .... your html page ....
 <script src="iewarn.min.js"></script>
 </body>
