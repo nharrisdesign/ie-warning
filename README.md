@@ -12,7 +12,8 @@ _Currently only tested on IE8-IE11_
 
 ## Usage
 
-Simply insert the script before the closing body tag in your html.
+Simply insert the script before the closing body tag in your html.\
+_(Don't include in the head with async/defer, these are buggy or not supported at all in older IE versions)_
 
 ```html
 .... your html page ....
